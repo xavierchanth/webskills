@@ -27,5 +27,8 @@ git clone https://github.com/xavierchanth/webskills /tmp/webskills
 ### Use skills cli to reference the local path
 
 ```sh
-bunx skills add /tmp/webskills/curated
+~~bunx skills add /tmp/webskills/curated~~
 ```
+
+Plan ruined, and repo immediately abandoned.
+The skills cli doesn't follow symlinks...
