@@ -27,5 +27,5 @@ git clone https://github.com/xavierchanth/webskills /tmp/webskills
 ### Use skills cli to reference the local path
 
 ```sh
-bunx skills add /tmp/webskills
+bunx skills add /tmp/webskills/curated
 ```

@@ -63,8 +63,8 @@ def main() -> int:
     )
     parser.add_argument(
         "--skills-dir",
-        default="skills",
-        help="Path to skills directory (default: skills)",
+        default="curated/skills",
+        help="Path to skills directory (default: curated/skills)",
     )
     args = parser.parse_args()
 
