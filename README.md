@@ -9,3 +9,23 @@ skills.
 
 These skills are not well audited yet, and this repo is experimental.
 USE AT YOUR OWN RISK.
+
+## Installation / Usage
+
+The normal skills command is not symlink / module aware so you must pull it
+locally:
+
+### Clone it to a temporary directory
+
+```sh
+# Download to temp dir
+git clone https://github.com/xavierchanth/webskills /tmp/webskills
+# Install (doesn't touch anything outside of it's own temp dir)
+(set -e; cd /tmp/webskills/; ./link_skills.py);
+```
+
+### Use skills cli to reference the local path
+
+```sh
+bunx skills add /tmp/webskills
+```
