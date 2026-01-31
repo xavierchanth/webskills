@@ -1,0 +1,46 @@
+[
+  {
+    "path": "modules/convexskills",
+    "skills": [
+      "avoid-feature-creep",
+      "convex",
+      "convex-agents",
+      "convex-best-practices",
+      "convex-component-authoring",
+      "convex-cron-jobs",
+      "convex-file-storage",
+      "convex-functions",
+      "convex-http-actions",
+      "convex-migrations",
+      "convex-realtime",
+      "convex-schema-validator",
+      "convex-security-audit",
+      "convex-security-check"
+    ]
+  },
+  {
+    "path": "modules/claude-skills",
+    "skills": [
+      "ai-sdk-core",
+      "ai-sdk-ui",
+      "better-auth",
+      "cloudflare-agents",
+      "cloudflare-images",
+      "cloudflare-r2",
+      "cloudflare-turnstile",
+      "cloudflare-worker-base",
+      "cloudflare-workers-ai",
+      "tailwind-patterns",
+      "tailwind-v4-shadcn"
+    ]
+  },
+  {
+    "path": "modules/tanstack-agent-skills",
+    "skills": [
+      "tanstack-integration",
+      "tanstack-query",
+      "tanstack-router",
+      "tanstack-start"
+    ]
+  }
+]

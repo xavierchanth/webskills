@@ -1,0 +1,9 @@
+[submodule "modules/convexskills"]
+	path = modules/convexskills
+	url = https://github.com/waynesutton/convexskills
+[submodule "modules/tanstack-agent-skills"]
+	path = modules/tanstack-agent-skills
+	url = https://github.com/deckardger/tanstack-agent-skills
+[submodule "modules/claude-skills"]
+	path = modules/claude-skills
+	url = https://github.com/jezweb/claude-skills
